@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is DrHybris
 #### I am Aerospace Engineer
 
-Skills: OpenFoam / Python / Fusion 360 /
+Skills: Vibration / Julia / Wind Turbine /
 
 - 🔭 I’m currently working on this page. 
 
